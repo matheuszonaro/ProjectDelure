@@ -1,4 +1,4 @@
-# Delure
+# Project Delure
 
 Nintendo news aggregator with Australian eShop price tracker. It gathers articles from 8 international sources in real time, generates a daily AI summary, and displays prices, discounts, and price history for Switch and Switch 2 games.
 
@@ -403,4 +403,4 @@ When adding a new default source in future versions of the app, it automatically
 
 ## License
 
-Private project — all rights reserved.
+Public project.
