@@ -1,0 +1,11 @@
+node_modules
+.claude
+dist
+dist-ssr
+*.local
+.env
+.env.*
+.vercel
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
